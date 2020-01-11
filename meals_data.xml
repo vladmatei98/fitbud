@@ -2,9 +2,9 @@
 <DataSet>
 	<Body>
 		<meals>
-    		<product name="Yoghurt">Yoghurt - 92</product>
-    		<product name="Banana">Banana - 105</product>
-    		<product name="Chocolate bar">Chocolate bar - 134</product>
+    		<product name="Yoghurt">92</product>
+    		<product name="Banana">105</product>
+    		<product name="Chocolate bar">134</product>
 		</meals>
 		<info>
 			<person age=21 weight=70 gender="male">"Vlad Matei"</person>
