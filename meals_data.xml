@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<DataSet>
+	<Body>
+		<meals>
+    		<product name="Yoghurt">92</product>
+    		<product name="Banana">105</product>
+    		<product name="Chocolate bar">134</product>
+		</meals>
+		<info>
+			<person age=21 weight=70 gender="male">"Vlad Matei"</person>
+    	</info>
+    	<exercises>
+    		<exercise difficulty="easy" category="abdominals">"Crunches"</type>
+    		<exercise difficulty="medium" category="arms">"Pull ups"</type>
+    		<exercise difficulty="hard" category="upper body">"Benchpress"</type>
+    	</exercise>
+	</Body>
+</DataSet>
